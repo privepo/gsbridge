@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 16
+eotect@gmail.com
+K 8
+svn:date
+V 27
+2010-11-23T12:13:22.471920Z
+K 7
+svn:log
+V 75
+renamed "pull_projects" as "gsbridge", added shortcut script "check_status"
+END

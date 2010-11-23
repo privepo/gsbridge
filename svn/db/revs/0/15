@@ -1,0 +1,75 @@
+PLAIN
+K 9
+.PROJECTS
+V 18
+file 1-2.0.r6/3639
+K 10
+.gitignore
+V 18
+file 4-2.0.r12/742
+K 7
+.ignore
+V 18
+file 1-3.0.r6/2990
+K 6
+.repos
+V 17
+file 1-9.0.r9/236
+K 6
+README
+V 18
+file 5-6.0.r6/3836
+K 11
+authors.txt
+V 17
+file 3-8.0.r14/76
+K 13
+pull_projects
+V 18
+file 8-2.0.r6/3383
+K 9
+set_repos
+V 19
+file 1-11.0.r11/531
+END
+ENDREP
+id: 3-1.0.r15/322
+type: dir
+pred: 3-1.0.r14/683
+count: 13
+text: 15 0 309 309 0eb44f9091b6a8a16109b699b699f96f
+props: 3 521 135 0 5d030d08e473673213c3adeaaed1c8f8
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 16
+dir 0-1.0.r1/126
+K 4
+tags
+V 17
+dir 2-1.0.r4/1401
+K 5
+trunk
+V 17
+dir 3-1.0.r15/322
+K 4
+wiki
+V 15
+dir 4-1.0.r1/63
+END
+ENDREP
+id: 0.0.r15/660
+type: dir
+pred: 0.0.r14/1023
+count: 15
+text: 15 513 134 134 4d534d3c2716ea461c052400b163d0c1
+cpath: /
+copyroot: 0 /
+
+5-12.0.r12/939 delete-file false false /trunk/gc.txt
+
+
+660 793

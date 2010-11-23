@@ -1,0 +1,17 @@
+K 13
+google:author
+V 10
+xiaoranzzz
+K 10
+svn:author
+V 6
+eotect
+K 8
+svn:date
+V 27
+2010-11-02T16:21:51.516041Z
+K 7
+svn:log
+V 26
+add .authors to .gitignore
+END
