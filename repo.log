@@ -30,3 +30,34 @@ git-svn-id: https://pl3.projectlocker.com/eotect/gsbridge/svn/trunk@36 4e41f0a8-
  authors.txt |    7 +++----
  gsbridge    |   14 +++++++++-----
  3 files changed, 25 insertions(+), 22 deletions(-)
+GSBRIDGE:
+
+Path: svn
+URL: file:///myplace/repos/gsbridge/svn
+Repository Root: file:///myplace/repos/gsbridge/svn
+Repository UUID: 8428a918-2b24-4211-a954-54880ca58411
+Revision: 44
+Node Kind: directory
+Last Changed Author: eotect@gmail.com
+Last Changed Rev: 44
+Last Changed Date: 2010-12-09 01:49:34 +0800 (Thu, 09 Dec 2010)
+
+------------------------------------------------------------------------
+r44 | eotect@gmail.com | 2010-12-09 01:49:34 +0800 (Thu, 09 Dec 2010) | 1 line
+
+updated script "gsbridge" and projects data
+------------------------------------------------------------------------
+
+Path  : git
+Date  : 2010-12-08 17:49:34 +0000
+Author: Eotect Nahn
+Commit: 6d541bdec94a6cf9101b8f759618955ede065a8d
+
+    updated script "gsbridge" and projects data
+
+git-svn-id: https://pl3.projectlocker.com/eotect/gsbridge/svn/trunk@44 4e41f0a8-0d18-4fdf-b87e-d5b8a1762d00
+
+
+ .PROJECTS |   15 ++++++++-------
+ gsbridge  |    5 ++++-
+ 2 files changed, 12 insertions(+), 8 deletions(-)

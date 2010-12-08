@@ -2,5 +2,4 @@
 	repositoryformatversion = 0
 	filemode = true
 	bare = true
-[remote "origin"]
-	url = /myplace/workspace/.
+	ignorecase = true
