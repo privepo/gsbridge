@@ -4,8 +4,8 @@ V 27
 2010-10-31T19:28:45.089502Z
 K 17
 svn:sync-from-url
-V 49
-https://pl3.projectlocker.com/eotect/gsbridge/svn
+V 48
+http://pl3.projectlocker.com/eotect/gsbridge/svn
 K 18
 svn:sync-from-uuid
 V 36
@@ -13,5 +13,5 @@ V 36
 K 24
 svn:sync-last-merged-rev
 V 2
-44
+45
 END

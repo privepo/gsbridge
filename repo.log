@@ -35,29 +35,28 @@ GSBRIDGE:
 Path: svn
 URL: file:///myplace/repos/gsbridge/svn
 Repository Root: file:///myplace/repos/gsbridge/svn
-Repository UUID: 8428a918-2b24-4211-a954-54880ca58411
-Revision: 44
+Repository UUID: e4f6698f-93c8-4ef2-9193-3a687d9ed7c3
+Revision: 45
 Node Kind: directory
 Last Changed Author: eotect@gmail.com
-Last Changed Rev: 44
-Last Changed Date: 2010-12-09 01:49:34 +0800 (Thu, 09 Dec 2010)
+Last Changed Rev: 45
+Last Changed Date: 2010-12-10 01:50:19 +0800 (Fri, 10 Dec 2010)
 
 ------------------------------------------------------------------------
-r44 | eotect@gmail.com | 2010-12-09 01:49:34 +0800 (Thu, 09 Dec 2010) | 1 line
+r45 | eotect@gmail.com | 2010-12-10 01:50:19 +0800 (Fri, 10 Dec 2010) | 1 line
 
-updated script "gsbridge" and projects data
+updated projects data
 ------------------------------------------------------------------------
 
 Path  : git
-Date  : 2010-12-08 17:49:34 +0000
+Date  : 2010-12-09 17:50:19 +0000
 Author: Eotect Nahn
-Commit: 6d541bdec94a6cf9101b8f759618955ede065a8d
+Commit: 23156d689adc007f8dfc1f13c1d71f1422e78141
 
-    updated script "gsbridge" and projects data
+    updated projects data
 
-git-svn-id: https://pl3.projectlocker.com/eotect/gsbridge/svn/trunk@44 4e41f0a8-0d18-4fdf-b87e-d5b8a1762d00
+git-svn-id: https://pl3.projectlocker.com/eotect/gsbridge/svn/trunk@45 4e41f0a8-0d18-4fdf-b87e-d5b8a1762d00
 
 
- .PROJECTS |   15 ++++++++-------
- gsbridge  |    5 ++++-
- 2 files changed, 12 insertions(+), 8 deletions(-)
+ .PROJECTS    |   39 +++++++++++++++++++--------------------
+ 1 files changed, 19 insertions(+), 20 deletions(-)
