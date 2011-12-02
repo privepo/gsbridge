@@ -2,5 +2,19 @@
 	repositoryformatversion = 0
 	filemode = true
 	bare = true
-[remote "origin"]
-	url = /myplace/workspace/.
+	logallrefupdates = true
+	ignorecase = true
+[branch "master"]
+[remote "assembla"]
+	url = git@git.assembla.com:gsbridge.git
+	fetch = +refs/heads/*:refs/remotes/assembla/*
+[remote "sourceforge"]
+	url = ssh://eotect@zrepos.git.sourceforge.net/gitroot/zrepos/vcsplace/gsbridge
+	fetch = +refs/heads/*:refs/remotes/sourceforge/*
+[remote "unfuddle"]
+	url = git@eotect.unfuddle.com:eotect/gsbridge.git
+	fetch = +refs/heads/*:refs/remotes/unfuddle/*
+[pack]
+	packSizeLimit = 4m
+[gc]
+	auto = 0

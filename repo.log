@@ -90,21 +90,21 @@ git-svn-id: https://pl3.projectlocker.com/eotect/gsbridge/svn/trunk@47 4e41f0a8-
 
  README |   18 ------------------
  1 files changed, 0 insertions(+), 18 deletions(-)
-GSBRIDGE [GIT] commit ef187690: deleted README
+GSBRIDGE [GIT] commit b097d64e: added project entries for vcsplace and github-sync
 
 
 Path  : git
-Date  : 2010-12-09 19:30:59 +0000
+Date  : 2010-12-15 19:15:07 +0000
 Author: Eotect Nahn
-Commit: ef18769026e1f49fec9bc28da9578d0cad2edd3b
+Commit: b097d64eb74d7e95ec695764f2a48f40b5c8bf24
 
-    deleted README
+    added project entries for vcsplace and github-sync
 
-git-svn-id: https://pl3.projectlocker.com/eotect/gsbridge/svn/trunk@47 4e41f0a8-0d18-4fdf-b87e-d5b8a1762d00
+git-svn-id: https://pl3.projectlocker.com/eotect/gsbridge/svn/trunk@62 4e41f0a8-0d18-4fdf-b87e-d5b8a1762d00
 
 
- README |   18 ------------------
- 1 files changed, 0 insertions(+), 18 deletions(-)
+ .PROJECTS |    2 ++
+ 1 files changed, 2 insertions(+), 0 deletions(-)
 
 ================================================================================
 
